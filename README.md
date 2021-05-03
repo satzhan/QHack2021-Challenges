@@ -1,2 +1,2 @@
 # QHack2021-Challenges
-JUst my solutions to the problems
+Just my solutions to the problems
